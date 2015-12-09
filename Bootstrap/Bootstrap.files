@@ -1,0 +1,17 @@
+
+Bootstrap.creator
+Bootstrap.creator.user.tmpl
+Bootstrap.doxygen.cfg
+Bootstrap.modules
+Makefile
+Src/Application/Main.cpp
+Src/Application/Main.hpp
+Src/BootstrapLocalOpts.hpp
+Src/BootstrapLocalOpts.hpp.tmpl
+Src/Sys/BootstrapDefs.hpp
+Src/Sys/Error/BootstrapAssert.cpp
+Src/Sys/Error/BootstrapAssert.hpp
+Utilities/Make/Options.mk
+Utilities/Scripts/GenerateClass.sh
+Utilities/Scripts/InitProject.sh
+Utilities/Scripts/UpdateFiles.sh

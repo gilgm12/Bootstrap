@@ -1,0 +1,4 @@
+Files:= \
+	Src/Application/Main.cpp \
+	Src/Sys/Error/BootstrapAssert.cpp \
+
